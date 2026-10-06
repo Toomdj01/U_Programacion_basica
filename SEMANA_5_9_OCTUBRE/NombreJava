@@ -1,0 +1,13 @@
+public class Nombre_por_consola {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        var scanner = new Scanner (System.in);
+        System.out.println("dame tu nombre ");
+        var nombre = scanner.nextLine();
+        System.out.println("Dame tu nombre" +nombre) ;
+        // la variable scanner perminte interpretar lo que el usario ingresa
+        // println permite mostrar informacion en la consola
+        // la variable nombre guarda lo que el usuario escribe
+        // y scanner.nextLine pasa esa informacion a texto
+    }
+}
