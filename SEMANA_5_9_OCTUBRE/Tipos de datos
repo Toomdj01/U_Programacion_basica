@@ -1,0 +1,18 @@
+    public static void main(String[] args) {
+        var datos = new Scanner(System.in);
+        
+        System.out.println("Dame tu edad");
+        var edad = datos.nextInt();
+        System.out.println("edad "+ edad);
+        
+        System.out.println("dame tu estatura");
+        var estatura = datos.nextDouble();
+        System.out.println("estatura "+ estatura);
+        datos.nextLine();
+        System.out.println("dame tu nombre");
+        var N = datos.nextLine();
+        System.out.println("nombre "+ N );
+        
+        
+    }
+}
