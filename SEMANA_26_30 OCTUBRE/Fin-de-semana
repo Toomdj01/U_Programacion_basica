@@ -1,0 +1,11 @@
+Algoritmo fin_de_semana
+	Definir dia_semana Como Real
+	Escribir "que dia de la semana es ?"
+	leer dia_semana
+	si dia_semana >= 1 y dia_semana <=5
+		Escribir "no es fin de semana"
+	SiNo
+		Escribir "es fin de semana"
+	FinSi
+	
+FinAlgoritmo
