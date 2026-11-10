@@ -1,0 +1,16 @@
+Algoritmo SUMA
+Definir i,suma Como Entero
+Definir name Como caracter
+Escribir "ingrese su nombre"
+leer name
+Escribir "ingrese la cantidad de repeticiones"
+leer n
+suma <- 0
+Para i <- 1 Hasta n
+    suma <- suma + i
+    Escribir name
+FinPara
+
+Escribir "la cantidad de vecesque se repetio el nombre fue ",n
+
+FinAlgoritmo
