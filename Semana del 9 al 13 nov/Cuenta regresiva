@@ -1,0 +1,10 @@
+Algoritmo Bucle
+
+Definir I Como Entero
+Para I <- 50 Hasta 1 con paso -5 hacer
+
+Escribir I
+
+finpara
+
+FinAlgoritmo
