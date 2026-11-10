@@ -1,0 +1,9 @@
+Algoritmo Bucle
+
+Definir I Como Entero
+Para I <- 1 Hasta 10 Con Paso 1 Hacer
+Escribir I
+
+finpara
+
+FinAlgoritmo
